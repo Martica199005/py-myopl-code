@@ -5,7 +5,9 @@ All code for my "Make your own programming language in Python" tutorial series o
 This code is an interpreter for a BASIC-like language written in Python 3.
 
 #Our syntax rules:
+
 Basic: 
+
 All strings are between charcter ``. 
 All lines end with ;
 Comments start with # or //
